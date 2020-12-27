@@ -16,6 +16,7 @@ Welcome! This repo is here to create a central place of all the tools and packag
 
   |Package/Tool|Reference (DOI)|Guide|Install/Language|Github/CRAN|
   |------------|---------|------|---------------|-----------|
+  |minimap2|10.1093/bioinformatics/bty191|[Guide](https://github.com/lh3/minimap2#uguide)|conda/C|https://github.com/lh3/minimap2#uguide|
   |pafr|N/A|[Guide](https://cran.r-project.org/web/packages/pafr/vignettes/Introduction_to_pafr.html)|Devtools/R|https://github.com/dwinter/pafr|
   |fastANI|10.1038/s41467-018-07641-9|[Guide](https://github.com/ParBLiSS/FastANI)|conda/C++|https://github.com/ParBLiSS/FastANI|
 
