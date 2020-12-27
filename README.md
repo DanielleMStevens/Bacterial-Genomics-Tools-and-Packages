@@ -4,6 +4,10 @@ Welcome! This repo is here to create a central place of all the tools and packag
 
 
 ## All tools Illumina Reads
+  |Package/Tool|Reference (DOI)|Guide|Install/Language|Github/CRAN|
+  |------------|---------|------|---------------|-----------|
+  |bbtools|N/A?|[Guide](need to find link)|conda/java|??|
+  |fastp|10.1093/bioinformatics/bty560|[Guide](https://github.com/OpenGene/fastp)|conda/C++|https://github.com/OpenGene/fastp|
 
 ## Phylogenomics
   
