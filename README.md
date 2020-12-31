@@ -1,6 +1,6 @@
 # Bacterial-Genomics-Tools-and-Packages
 
-Welcome! This repo is here to create a central place of all the tools and packages used for much of my genomic research. Many are mostly bacterial oriented, but some can be used for nearly any organism. If you'd like to add a tool to this list, feel free to submit an issue and if it looks appropraite, I will add it.
+Welcome! This repo is here to create a central place of all the tools and packages used for much of my genomic research. Many are mostly bacterial oriented, but some can be used for nearly any organism. If you'd like to add a tool to this list, feel free to submit an issue and if it looks appropriate, I will add it.
 
 
 ## All tools Illumina Reads
@@ -8,6 +8,7 @@ Welcome! This repo is here to create a central place of all the tools and packag
   |------------|---------|------|---------------|-----------|
   |bbtools|N/A?|[Guide](need to find link)|conda/java|??|
   |fastp|10.1093/bioinformatics/bty560|[Guide](https://github.com/OpenGene/fastp)|conda/C++|https://github.com/OpenGene/fastp|
+  
   A guide to bbtools can be found [here](/BBtools_guide.md)
 
 
