@@ -6,10 +6,8 @@ Welcome! This repo is here to create a central place of all the tools and packag
 ## All tools Illumina Reads
   |Package/Tool|Reference (DOI)|Guide|Install/Language|Github/CRAN|
   |------------|---------|------|---------------|-----------|
-  |bbtools|N/A?|[Guide](need to find link)|conda/java|??|
+  |bbtools|N/A?|[My Guide](/BBtools_guide.md)|conda/java|??|
   |fastp|10.1093/bioinformatics/bty560|[Guide](https://github.com/OpenGene/fastp)|conda/C++|https://github.com/OpenGene/fastp|
-  
-  A guide to bbtools can be found [here](/BBtools_guide.md)
 
 
 ## Genome(s) Comparison
