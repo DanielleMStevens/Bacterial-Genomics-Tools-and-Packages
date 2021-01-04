@@ -29,11 +29,13 @@ Welcome! This repo is here to create a central place of all the tools and packag
  |clinker|10.1101/2020.11.08.370650|TBD|pip/python|https://github.com/gamcil/clinker|
  |gggenes|N/A|[Guide](https://wilkox.org/gggenes/)|cran&Devtools/R|https://github.com/wilkox/gggenes|
 
-## Population Genetics
 
- |Package/Tool|Reference (DOI)|Guide|Install/Language|Github|
- |------------|---------|------|---------------|-----------|
- |poppr|10.3389/fgene.2015.00208|[Guide](http://grunwaldlab.github.io/Population_Genetics_in_R/First_Steps.html)|cran/R|https://github.com/grunwaldlab/poppr|
+## Pangenomes
+
+  |Package/Tool|Reference (DOI)|Guide|Install/Language|Github|
+  |------------|---------|------|---------------|-----------|
+  |PPanGGOLiN|10.1371/journal.pcbi.1007732|TBD|conda/C|https://github.com/labgem/PPanGGOLiN|
+
 
 ## Phylogenomics
   
@@ -42,6 +44,13 @@ Welcome! This repo is here to create a central place of all the tools and packag
   |TreeIO|10.1093/molbev/msz240.|[Guide](https://yulab-smu.top/treedata-book/chapter1.html)|BioCManager/R|https://github.com/YuLab-SMU/treeio|
   |ggTree|10.1111/2041-210X.12628|[Guide](https://guangchuangyu.github.io/ggtree-book/short-introduction-to-r.html)|cran/R|https://github.com/YuLab-SMU/ggtree|
   
+
+## Population Genetics
+
+ |Package/Tool|Reference (DOI)|Guide|Install/Language|Github|
+ |------------|---------|------|---------------|-----------|
+ |poppr|10.3389/fgene.2015.00208|[Guide](http://grunwaldlab.github.io/Population_Genetics_in_R/First_Steps.html)|cran/R|https://github.com/grunwaldlab/poppr|
+
   
 ## Other Useful Packages
   
