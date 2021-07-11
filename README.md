@@ -27,6 +27,7 @@ Welcome! This repo is here to create a central place of all the tools and packag
  |------------|---------|------|---------------|-----------|
  |clinker|10.1101/2020.11.08.370650|TBD|pip/python|https://github.com/gamcil/clinker|
  |gggenes|N/A|[Guide](https://wilkox.org/gggenes/)|cran&Devtools/R|https://github.com/wilkox/gggenes|
+ |gggenomes|N/A|[Guide](https://thackl.github.io/gggenomes/index.html)|Devtools/R|https://github.com/thackl/gggenomes/|
 
 
 ## Pangenomes
