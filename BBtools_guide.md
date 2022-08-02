@@ -22,3 +22,8 @@ ref=/media/danimstevens/Second_storage/Genomes/DNA_contigs/CM_CASJ002.fasta,./GC
 ```bash
 bbmap.sh in=reads.fq ref=contigs.fa covstats=covstats.txt
 ```
+
+### Removing small (<1kb) contigs
+```bash
+reformat.sh in=contigs.fasta out=filtered.fasta minlength=1000
+```
